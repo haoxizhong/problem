@@ -1,0 +1,13 @@
+VISIT http://acm.ashland.edu/
+VISIT http://asm.baylor.edu/acmipc/
+BACK
+BACK
+FORWARD
+VISIT http://www.ibm.com/
+BACK
+FORWARD
+VISIT ftp://goodstuff.mysite.com/more/more/more/theend.html
+FORWARD
+BACK
+BACK
+QUIT
